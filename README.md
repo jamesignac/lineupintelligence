@@ -1,7 +1,7 @@
 # lineupintelligence
 An application for understanding different NBA/WNBA lineup
 
-## Core Components:
+## Core Components of the MVP:
 
 ### Lineup Experimenter
 - Select a league (NBA/WNBA)
@@ -9,12 +9,17 @@ An application for understanding different NBA/WNBA lineup
 - Select a team
 - Select 2-5 players to add to your lineup
 - View the data, see lineup percentiles, lineup shot chart
+- Filter for different periods of game time, by certain metrics
+  
+### Lineup Viewer
+- See every lineup league-wide and their metrics
+- Filter by different metrics
 
 ### Player cards
 - When players are selected, you can click on individual players to view an individual player card with their stats, profile and shot chart
 
 ### Lineup Comparer
-- Compare your 2-5 player lineup with other 2-5 player lineups directly
+- Compare your 2-5 player lineup with other 2-5 player lineups of your choosing directly
 
 inspo: 
 
