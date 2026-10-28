@@ -19,4 +19,5 @@ An application for understanding different NBA/WNBA lineup
 inspo: 
 
 databallr WOWY: https://databallr.com/wowy/?team=NYK&from=2027&to=2027&players=1628973
+
 hoopology lineup: https://hoopologyviz.com/on-off-2
