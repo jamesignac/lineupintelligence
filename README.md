@@ -17,5 +17,6 @@ An application for understanding different NBA/WNBA lineup
 - Compare your 2-5 player lineup with other 2-5 player lineups directly
 
 inspo: 
+
 databallr WOWY: https://databallr.com/wowy/?team=NYK&from=2027&to=2027&players=1628973
 hoopology lineup: https://hoopologyviz.com/on-off-2
